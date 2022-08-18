@@ -1,3 +1,3 @@
 # cloudfront to cache the movies content
 
-#oring -->  s3 bucket
+#origin -->  s3 bucket
